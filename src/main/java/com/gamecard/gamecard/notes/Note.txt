@@ -1,0 +1,2 @@
+EntityListener uzun bir sure calismadi ve ben bu durumu cozemedim.
+Arastirdigimda Config yazmam gerektigini anladim.
